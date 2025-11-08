@@ -1,1 +1,2 @@
-The game has 6 premade words that are randomly chosen from and your aim is to guess the word
+Your aim is to guess the word from a dictionary of words 
+Note: when the words are guessed they dont appear again 
