@@ -1,10 +1,8 @@
 """
-corrections to be made
-change the format for the acii art 
-add more comments for when the word is guessed or not
-also create a multiline string displaying the questions and the task for the assignment
-also add a while loop that allows you to replay
-and add a dictionary of words
+Create a hangman game with a replay feature and a hint function
+add an ascii art for the hangman character
+add a txt file to serve as the dictionary for the words 
+dont allow the words guessed to reappear in the game 
 """
 import random
 
